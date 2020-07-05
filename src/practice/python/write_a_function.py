@@ -1,3 +1,4 @@
+# https://www.hackerrank.com/challenges/write-a-function/problem
 def is_leap_year(year: int) -> bool:
     return True if (
         year % 4 == 0 and

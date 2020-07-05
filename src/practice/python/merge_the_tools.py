@@ -1,3 +1,4 @@
+# https://www.hackerrank.com/challenges/merge-the-tools/problem
 def merge_the_tools(s, k):
     n = len(s)
     chunks = []

@@ -1,5 +1,5 @@
 import pytest
-from src.practice.python import is_leap_year
+from src.practice import is_leap_year
 
 
 @pytest.mark.parametrize(

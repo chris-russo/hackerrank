@@ -1,5 +1,5 @@
 import pytest
-from src.practice.python import merge_the_tools
+from src.practice import merge_the_tools
 
 
 @pytest.mark.parametrize(

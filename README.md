@@ -1,2 +1,2 @@
 # HackerRank
-![](https://github.com/chris-russo/hackerrank/workflows/ci/badge.svg)
+![](https://github.com/chris-russo/hackerrank/workflows/GitHub%20CI/badge.svg)

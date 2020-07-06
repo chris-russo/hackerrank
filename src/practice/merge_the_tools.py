@@ -1,5 +1,8 @@
+from typing import List
+
+
 # https://www.hackerrank.com/challenges/merge-the-tools/problem
-def merge_the_tools(s, k):
+def merge_the_tools(s: str, k: int) -> List[str]:
     n = len(s)
     chunks = []
     i = 0

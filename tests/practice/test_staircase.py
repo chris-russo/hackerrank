@@ -1,5 +1,5 @@
 import pytest
-from src.practice.staircase import staircase
+from src.practice import staircase
 
 
 @pytest.mark.parametrize(

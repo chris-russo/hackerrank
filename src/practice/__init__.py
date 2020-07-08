@@ -6,3 +6,4 @@ from src.practice.diagonal_difference import diagonal_difference, diagonal_diffe
 from src.practice.plus_minus import plus_minus
 from src.practice.staircase import staircase
 from src.practice.minimax_sum import minimax_sum
+from src.practice.time_conversion import time_conversion

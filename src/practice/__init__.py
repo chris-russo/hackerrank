@@ -10,3 +10,4 @@ from src.practice.time_conversion import time_conversion
 from src.practice.swap_case import swap_case
 from src.practice.birthday_cake_candles import birthday_cake_candles
 from src.practice.chief_hopper import chief_hopper, update_energy
+from src.practice.kangaroo import kangaroo

@@ -12,3 +12,4 @@ from src.practice.birthday_cake_candles import birthday_cake_candles
 from src.practice.chief_hopper import chief_hopper, update_energy
 from src.practice.kangaroo import kangaroo
 from src.practice.grading_students import grading_students, apply_grading_rules, base_ceil
+from src.practice.two_strings import two_strings
